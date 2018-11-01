@@ -21,7 +21,7 @@ import com.bru.model.UserBean;
 
 @Controller
 public class AdminController {
-
+....
 	@Autowired
 	AdminDao  adminDao;
 	
